@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <ID>1</ID>
+    <SourceCurrency>USD</SourceCurrency>
+    <DestinationCurrency>EUR</DestinationCurrency>
+    <SourceAmount>1000.00</SourceAmount>
+  </row>
+  <row>
+    <ID>2</ID>
+    <SourceCurrency>EUR</SourceCurrency>
+    <DestinationCurrency>AUD</DestinationCurrency>
+    <SourceAmount>2050.50</SourceAmount>
+  </row>
+  <row>
+    <ID>3</ID>
+    <SourceCurrency>INR</SourceCurrency>
+    <DestinationCurrency>USD</DestinationCurrency>
+    <SourceAmount>100.00</SourceAmount>
+  </row>
+</root>

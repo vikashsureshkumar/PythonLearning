@@ -1,0 +1,14 @@
+[
+ {
+   "ID": 1,
+   "Currency1": "EUR",
+   "Currency2": "GBP",
+   "SrcAmount": 999
+ },
+ {
+   "ID": 2,
+   "Currency1": "AUD",
+   "Currency2": "USD",
+   "SrcAmount": 30000
+ }
+]

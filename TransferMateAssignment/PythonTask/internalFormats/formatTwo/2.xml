@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <ID>1</ID>
+    <Currency1>EUR</Currency1>
+    <Currency2>GBP</Currency2>
+    <SrcAmount>999</SrcAmount>
+  </row>
+  <row>
+    <ID>2</ID>
+    <Currency1>AUD</Currency1>
+    <Currency2>USD</Currency2>
+    <SrcAmount>30000</SrcAmount>
+  </row>
+</root>
